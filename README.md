@@ -12,7 +12,7 @@ This repository contains the official submission for the MOCCM Black-Box Signal 
 
 We successfully cracked the "White-Box" signal and engineered an ultra-low-latency, pure NumPy backtesting engine to execute our logic. Our dual pipeline successfully parsed, processed, and evaluated a hidden 5-year dataset in under 30 seconds during the final "15-Minute Drop" phase.
 
-We got a blended **Sharpe Ratio** of 9.57 which led us to 10th position among 150+ teams.
+We got a blended **Sharpe Ratio** of 9.57 on the out of sample dataset which led us to 10th position among 150+ teams.
 
 ## Phase 1: The Quant Strategy (Signal Discovery)
 **Architecture:** Regime-Regulated, Lead-Lag Statistical Arbitrage
